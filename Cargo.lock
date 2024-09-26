@@ -519,7 +519,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "embassy-rp-starter"
+name = "{{project-name}}"
 version = "0.1.0"
 dependencies = [
  "cortex-m",
